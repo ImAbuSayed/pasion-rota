@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Pasión rota
+
+This log tracks the cryptographic history and versioning for the song **Pasión rota** (pasion-rota).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T07:12:38.167325 | `v1` | `16402e846af7deafaaf754d9748458153d389fad1f11ccc1b467030f7f7f1650` | `d2b3df6d776a1731569d1a5ba8a54eeb361e067e5422250754bcc4f83767e859` | `2026-06-18_pasion-rota-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
