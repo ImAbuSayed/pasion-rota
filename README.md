@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pasion-rota/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Pasión rota](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-rota/) |
+| **Get License** | [Request Licensing for Pasión rota](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-rota/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, la noche está pidiendo que te acerques más
+> Con esa mirada de fuego tú me vas a quemar
+> No hay vuelta atrás cuando apagamos la luz en la ciudad
+> Pasión rota, pero esta noche la vamos a arreglar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
